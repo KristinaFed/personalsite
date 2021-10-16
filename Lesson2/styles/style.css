@@ -1,0 +1,8 @@
+body {
+     color:rgb(4, 2, 26);
+    }
+
+img{
+    max-width: 400px;
+    object-fit: contain;
+}
