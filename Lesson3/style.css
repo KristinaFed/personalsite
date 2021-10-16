@@ -1,0 +1,13 @@
+td{
+
+    border: 1px solid rebeccapurple;
+
+}
+table{
+    background: rgb(185,156,190);
+background: linear-gradient(0deg, rgba(185,156,190,1) 0%, rgba(152,233,255,1) 13%, rgba(98,88,106,1) 96%);
+}
+img{
+    width: 20px;
+height: 20px; 
+}
